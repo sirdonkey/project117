@@ -1,0 +1,18 @@
+body 
+{
+    background: greenyellow;
+}
+
+
+
+#show_sketch
+{
+    float: right;
+}
+
+canvas
+{
+    border: 5px solid cyan;
+    border-radius: 20px;
+    margin-top: 150px;
+}
